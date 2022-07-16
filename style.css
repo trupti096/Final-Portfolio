@@ -47,7 +47,7 @@
 /* home section styling */
 .home{
     display: flex;
-    background: url("linu5.jpeg") no-repeat center;
+    background: url("pic.jpeg") no-repeat center;
     height: 100vh;
     color:#fff;
     min-height: 500px;
@@ -58,15 +58,15 @@
 }
 .home .home-content .text-1{
     font-size: 27px;
-    margin-left: -600px;
+    margin-left: -500px;
 }
 .home .home-content .text-2{
     font-size:75px;
     font-weight:600;
-    margin-left: -600px;
+    margin-left: -500px;
 }
 .home .home-content .text-3{
     font-size:40px;
     margin:5px 0;
-    margin-left: -590px;
+    margin-left: -500px;
 }
